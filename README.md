@@ -1,9 +1,10 @@
 ## Hi, I'm Rita 👋
 
-I am a frontend engineer 💻, a jewelry designer 💍, and also a wedding host 🎤.
-> Learning and traveling are my ways of exploring the world.
+I am a frontend engineer 💻, a jewelry designer 💍, and also a dog lover 🐶.
+Learning and traveling are my ways of exploring the world.
 
-## 📫 How to reach me: [ritayang0811@gmail.com](ritayang0811@gmail.com)
+## 📫 How to reach me: 
+#### [ritayang0811@gmail.com](ritayang0811@gmail.com)
 
 ## Building projects with:
 
